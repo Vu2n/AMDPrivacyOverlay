@@ -1,10 +1,15 @@
 # AMDPrivacyOverlay
-Using AMDs Privacy View software to render our cheat.
 
-Its the same method as any other overlay but I have seen no one using this class/window yet so here ya go:
+Leverage AMD's Privacy View software to render your cheat.
 
-Download and compile but since AMD Privacy View can only be downloaded through the Radeon software (Which is not available on Nvidia systems) I've attached a google drive link on the GitHub read me with a RAR file containing the exe. (yes this works lmfao)
-Youll need to actually setup the privacy view so just use your own camera or download ManyCam Virtual Camera. You can skip the calibration step as its not needed.
-Compile the dll and inject it into the privacy view exe (idc how) and wow amazing overlay! (or just run as an exe i guess...)
+### Overview
+This project utilizes AMD's Privacy View, a unique approach to rendering overlays. While it's a method similar to other overlays, using this specific class/window is rare—so here's a fresh take on it!
 
-AMD Privacy View: https://drive.google.com/file/d/1mPP4KVVfqv0-P2t-zvY4ZShmcpu3YULE/view
+### Requirements
+- **AMD Privacy View:** This software can only be downloaded via the Radeon Software, which isn't available on Nvidia systems. To simplify, I've included a [Google Drive link](https://drive.google.com/file/d/1mPP4KVVfqv0-P2t-zvY4ZShmcpu3YULE/view) with a RAR file containing the executable.
+- **Camera Setup:** Set up Privacy View using your own camera or download ManyCam Virtual Camera. Calibration can be skipped.
+
+### Instructions
+1. **Compile** the DLL.
+2. **Inject** the DLL into the Privacy View executable (use your preferred method).
+3. Alternatively, just **run it as an executable**—whichever works best for you!
