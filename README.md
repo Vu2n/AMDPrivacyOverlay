@@ -1,5 +1,7 @@
 # AMDPrivacyOverlay
 
+# I believe they have changed the way the privacy screen is rendered, it is still possible but i wont update this repo.
+
 Leverage AMD's Privacy View software to render your cheat.
 
 ### Overview
